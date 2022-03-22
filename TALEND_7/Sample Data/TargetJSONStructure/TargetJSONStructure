@@ -1,0 +1,20 @@
+{
+"AutoMobiles":[{
+	"Vehicle": "Car",
+	"Make": "Toyota",
+	"Models" : [{
+		"Model": "Camry"
+		},
+		{
+		"Model": "Rav4"
+		}
+		]
+	},
+	{
+	"Vehicle": "Car",
+	"Make": "Tesla",
+	"Models": [{
+	"Model": "Plaid"
+	}]
+}]
+}
